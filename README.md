@@ -9,3 +9,6 @@ Data sets:
 coffee.csv - association between deaths from coronary heart disease (CHD) and consumption of coffee and sigarettes
 motif_data - association between RNA motifs and RNA stabiltiy (RNA half life)
 cancer_data - gene expression data in cancer
+
+
+
